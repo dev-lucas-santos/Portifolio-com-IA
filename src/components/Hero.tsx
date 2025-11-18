@@ -30,7 +30,6 @@ const Hero = () => {
               <img src="src/imagens/f-perfil.jpg.jpeg" alt="foto-perfil" 
                className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-primary/30 relative z-10"/>
                
-               
             <img/>
             </div>
           </div>

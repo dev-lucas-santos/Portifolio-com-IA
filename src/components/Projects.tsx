@@ -6,22 +6,22 @@ import { Badge } from "@/components/ui/badge";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Fullstack",
-      description: "Plataforma completa de e-commerce com painel administrativo, carrinho de compras e integração de pagamentos.",
-      impact: "Sistema completo com autenticação, gestão de produtos e processamento de pedidos em tempo real.",
-      tech: ["React", "Node.js", "MongoDB", "Express", "Stripe"],
+      title: "Gerenciador De Produtos Fullstack",
+      description: "Plataforma completa de gerenciador de produtos com painel administrativo, organização por data, quantidade e produtos  e integração de salvamento.",
+      impact: "Sistema completo com autenticação, gestão de produtos e processamento de saida em tempo real.",
+      tech: ["HTML", "JavaScript", "CSS", "Ferramentas de IA"],
       aiFeature: "Testes automatizados gerados com GitHub Copilot",
-      liveDemo: "#",
-      github: "#"
+      liveDemo: "https://dev-lucas-santos.github.io/tabela-produtos/",
+      github: "https://github.com/dev-lucas-santos/tabela-produtos.git"
     },
     {
-      title: "Dashboard Analytics",
-      description: "Dashboard interativo para visualização de dados e métricas em tempo real com gráficos dinâmicos.",
-      impact: "Redução de 60% no tempo de análise de dados através de visualizações intuitivas.",
-      tech: ["Vue.js", "Chart.js", "Node.js", "PostgreSQL"],
+      title: "E-Comerce Responsivo Automatizado",
+      description: "E-comerce de cartas online , mais facilmentre adaptavel pra um projeto real , gerenciador de cartas e pedidos , atendimento via whatsapp.",
+      impact: "E-Comerce intuitivo e chamativo de cartas online , de facil utilização e adptavel para um projeto real , para dendas online através com visualizações intuitivas.",
+      tech: ["JavaScript", "agentes de IA"],
       aiFeature: "Otimização de queries com auxílio do ChatGPT",
-      liveDemo: "#",
-      github: "#"
+      liveDemo: "https://dev-lucas-santos.github.io/Projeto-Cards-online/",
+      github: "https://github.com/dev-lucas-santos/Projeto-Cards-online.git"
     },
     {
       title: "API RESTful para Gestão",
